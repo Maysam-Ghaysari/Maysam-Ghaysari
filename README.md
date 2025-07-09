@@ -1,6 +1,6 @@
 # Maysam Ghaysari 👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maysam_qaysari)
-[![WhatsApp](Message maysamghaysari on WhatsApp. https://wa.me/message/3YSFQXYMQEFXN1)
+[![WhatsApp](https://wa.me/message/3YSFQXYMQEFXN1)
 
 ## 💻 Front-End Developer | React & Next.js Enthusiast
 
