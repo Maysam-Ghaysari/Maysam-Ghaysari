@@ -1,6 +1,4 @@
 # Maysam Ghaysari 👋
-
-[![LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/maysam-ghaysari-227676367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/maysam-ghaysari-227676367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maysam_qaysari)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/3YSFOXYMOEFXN1)
 
@@ -16,6 +14,8 @@
 - HTML5 & CSS3 🎨
 - Tailwind CSS 🍃
 - Git & GitHub 🗃️
+- Axios 
+- Graph QL
 - 
 
 ### پروژه‌های برجسته
@@ -29,8 +29,8 @@
 ![زبان‌های مورد استفاده](https://github-readme-stats.vercel.app/api/top-langs/?username=Maysam-Ghaysari&layout=compact&theme=radical)
 
 ### 📫 چگونه با من ارتباط برقرار کنید
-- ایمیل: your.email@example.com
-- تلگرام: @your_telegram
+- ایمیل: maysamghaysari96@gmail.com
+- تلگرام: @m_qaysari
 - [WhatsApp](https://wa.me/message/3YSFOXYMOEFXN1)
 <!---
 Maysam-Ghaysari/Maysam-Ghaysari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
