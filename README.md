@@ -8,6 +8,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,git,vercel,mongodb" alt="Tech Stack" />
 </div>
+
 - Next.js 🌐
 - React.js ⚛️
 - TypeScript 🌐
