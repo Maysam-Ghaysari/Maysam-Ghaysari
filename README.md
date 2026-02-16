@@ -30,6 +30,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maysam-Ghaysari&theme=dracula&hide_border=true" width="48%" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maysam-Ghaysari&layout=compact&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Maysam-Ghaysari&theme=dracula&no-frame=true&margin-w=15" width="48%" />
+</div>
+
 
 
 ### 📫 چگونه با من ارتباط برقرار کنید
