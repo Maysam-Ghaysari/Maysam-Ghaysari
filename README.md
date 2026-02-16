@@ -5,6 +5,9 @@
 من یک توسعه‌دهنده فرانت‌اند با علاقه‌مندی خاص به React و Next.js هستم. عاشق ساخت تجربه‌های کاربری زیبا و کارآمد هستم.
 
 ### مهارت‌های فنی
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,git,vercel,mongodb" alt="Tech Stack" />
+</div>
 - Next.js 🌐
 - React.js ⚛️
 - TypeScript 🌐
@@ -20,9 +23,7 @@
 - Nodejs
 - Mongodb
 - Postman
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,git,vercel,mongodb" alt="Tech Stack" />
-</div>
+
 
 ### پروژه‌های برجسته
 - [پروژه ۱](Maysam-Ghaysari/Coffe-Shop) - fullstack 
