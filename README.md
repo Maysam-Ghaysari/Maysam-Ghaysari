@@ -20,6 +20,9 @@
 - Nodejs
 - Mongodb
 - Postman
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,git,vercel,mongodb" alt="Tech Stack" />
+</div>
 
 ### پروژه‌های برجسته
 - [پروژه ۱](Maysam-Ghaysari/Coffe-Shop) - fullstack 
