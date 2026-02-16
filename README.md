@@ -24,10 +24,13 @@
 ### پروژه‌های برجسته
 - [پروژه ۱](Maysam-Ghaysari/Coffe-Shop) - fullstack 
 - [پروژه ۲](Maysam-Ghaysari/tredfi-wealzi) - Landing Page
-- [پروژه ۳](Maysam-Ghaysari/Barber-Shop) 
+- [پروژه ۳](Maysam-Ghaysari/Barber-Shop) - html - css 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maysam-Ghaysari&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maysam-Ghaysari&theme=dracula&hide_border=true" width="48%" />
+</div>
 
-### 📊 آمار GitHubhttps://github-readme-stats.vercel.app/api?username=Maysam-Ghaysari&show_icons=true&theme=dracula
-https://github-readme-stats.vercel.app/api?username=Maysam-Ghaysari&show_icons=true&theme=onedark)
+
 
 ### 📫 چگونه با من ارتباط برقرار کنید
 - ایمیل: maysamghaysari80@gmail.com
