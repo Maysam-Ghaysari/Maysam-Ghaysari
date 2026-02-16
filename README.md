@@ -27,7 +27,7 @@
 
 
 ### پروژه‌های برجسته
-- [پروژه ۱](Coffe-Shop) - fullstack 
+- [پروژه ۱](https://github.com/Maysam-Ghaysari/Coffe-Shop) - fullstack 
 - [پروژه ۲](tredfi-wealzi) - Landing Page
 - [پروژه ۳](Barber-Shop) - html - css 
 <div align="center">
